@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-basics",
+    "name": "react-starter",
     "version": "1.0.0",
-    "description": "Some basic ReactJS",
+    "description": "My peronal boiler code for react and redux",
     "main": "index.js",
     "scripts": {
         "start": "npm run build",
@@ -11,7 +11,7 @@
     "keywords": [
         "reactjs"
     ],
-    "author": "Maximilian Schwarzmueller",
+    "author": "Nwachukwu Chibuike",
     "license": "MIT",
     "dependencies": {
         "react": "^16.13.1",
